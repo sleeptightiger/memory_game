@@ -101,3 +101,28 @@ footer {
     color: #f15b31;
     font-weight: 700;
 }
+
+#reset-button {
+    margin: 35px auto;
+    padding: 10px;
+    background-color: #f15b31;
+    border-radius: 6%;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border: 0px;
+}
+
+.scoreBoard {
+    margin-top: 55px;
+    color: #f15b31;
+    font-family: "Raleway", sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+#score {
+    font-size: 40px;
+}
