@@ -103,7 +103,7 @@ footer {
 }
 
 #reset-button {
-    margin: 35px auto;
+    margin: 20px 0 10px 0;
     padding: 10px;
     background-color: #f15b31;
     border-radius: 6%;
@@ -115,7 +115,7 @@ footer {
 }
 
 .scoreBoard {
-    margin-top: 55px;
+    margin-top: 50px;
     color: #f15b31;
     font-family: "Raleway", sans-serif;
     font-weight: bold;
